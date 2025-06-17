@@ -1,18 +1,18 @@
-# Automations
-Website for various web-applications!
+# NotebookPlus
+Integrated notebook web-application that brings the best of the physical notebook online!
 
 ## Planned Features 
 
-### 1. To-do List
+### 1. To-do List and Daily Planner
 
-Create a to-do list with deadlines and tracking!
+Create a to-do list with deadlines and tracking! View your to-do lists from the previous days and plan ahead in the daily planner. 
 
-### 2. Trip planner 
+### 2. Notes
 
-Add locations and checkpoints to have real-time updates on travel time and duration. 
+Simple document editor for taking down notes. 
 
-### 3pip install pipenv. Document editor 
+### 3. Journal 
 
-Simple document editor to create to-do lists and notes. 
+To be updated!
 
 More coming soon!
